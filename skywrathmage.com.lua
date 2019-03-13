@@ -13,4 +13,4 @@ cname("www", "scatcat.meo.wf")
 -- TXT records
 txt("_keybase.skywrathmage.com", "keybase-site-verification=DEwDHYCN2owa6UGIaiHhK2tnomQRSXI5erRnNZPeUng")
 
--- fastmail(_a)
+fastmail(_a)
