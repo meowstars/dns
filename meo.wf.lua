@@ -17,6 +17,7 @@ a("azrael", "86.213.179.185")
 -- CNAME records
 cname("www", "scatcat.meo.wf")
 cname("wiki", "scatcat.meo.wf")
+cname("oldmail", "scatcat.meo.wf")
 
 -- CAA
 caa("", "letsencrypt.org", "issue")
