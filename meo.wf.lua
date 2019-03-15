@@ -23,5 +23,7 @@ cname("oldmail", "scatcat.meo.wf")
 caa("", "letsencrypt.org", "issue")
 caa("", "mailto:postmaster@meo.wf", "iodef")
 
+-- TXT
+txt(concat("_keybase", _a), "keybase-site-verification=jRcbEe2Lebcc6YnsM_m2PrFpN7GfwKJoAMFImmZpbHY")
 
 fastmail(_a)
