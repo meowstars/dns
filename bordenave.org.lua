@@ -10,5 +10,6 @@ a(_a, "51.15.146.222")
 -- CNAME records
 
 -- TXT records
+txt(concat("_keybase", _a), "keybase-site-verification=ZlcweW02HoQOfDUvlFe5UOIAZbQAtwdJq63bh5KYKbQ")
 
 fastmail(_a)
