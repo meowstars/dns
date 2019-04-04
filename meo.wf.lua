@@ -12,7 +12,7 @@ a("merignac", "86.213.179.185")
 
 -- Servers
 a("scatcat", "51.15.146.222")
-a("azrael", "192.250.89.41")
+a("azrael", "193.250.89.41")
 
 -- CNAME records
 cname("www", "scatcat.meo.wf")
