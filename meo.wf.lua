@@ -20,6 +20,11 @@ cname("wiki", "scatcat.meo.wf")
 cname("oldmail", "scatcat.meo.wf")
 cname("laeti-strg01", "azrael.meo.wf")
 
+-- INFRA records
+cname("portus.infra", "infra-lb01.sysnove.net")
+cname("registry.infra", "infra-lb01.sysnove.net")
+cname("ci.infra", "infra-lb01.sysnove.net")
+
 -- CAA
 caa("", "letsencrypt.org", "issue")
 caa("", "mailto:postmaster@meo.wf", "iodef")
