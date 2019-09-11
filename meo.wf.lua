@@ -21,6 +21,7 @@ cname("oldmail", "scatcat.meo.wf")
 cname("laeti-strg01", "azrael.meo.wf")
 
 -- INFRA records
+cname("traefik.infra", "infra-lb01.sysnove.net")
 cname("portus.infra", "infra-lb01.sysnove.net")
 cname("registry.infra", "infra-lb01.sysnove.net")
 cname("ci.infra", "infra-lb01.sysnove.net")
