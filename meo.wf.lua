@@ -8,17 +8,15 @@
 a(_a, "51.15.146.222")
 
 -- Physical locations
-a("merignac", "86.213.179.185")
+a("begles", "90.120.242.195")
 
 -- Servers
 a("scatcat", "51.15.146.222")
-a("azrael", "193.250.89.41")
 
 -- CNAME records
 cname("www", "scatcat.meo.wf")
 cname("wiki", "scatcat.meo.wf")
 cname("oldmail", "scatcat.meo.wf")
-cname("laeti-strg01", "azrael.meo.wf")
 
 -- INFRA records
 cname("traefik.infra", "infra-lb01.sysnove.net")
